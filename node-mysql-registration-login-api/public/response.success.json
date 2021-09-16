@@ -1,0 +1,18 @@
+{
+    "success_200": {
+        "apiVersion": "1.0",
+        "message": "Success!",
+        "code": 200,
+        "data": {
+            "users": []
+        }
+    },
+    "success_202": {
+        "apiVersion": "1.0",
+        "message": "Accepted!",
+        "code": 202,
+        "data": {
+            "users": []
+        }
+    }
+}

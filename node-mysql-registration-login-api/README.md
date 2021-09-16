@@ -50,3 +50,5 @@ router.get('/', authorize, usercontroller.getById);
 router.put('/', authorize , uservalidation.updateSchema , usercontroller.update);
 router.delete('/', authorize, usercontroller.delete);
 
+
+
