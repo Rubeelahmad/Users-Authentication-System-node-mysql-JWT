@@ -1,4 +1,4 @@
-# Users_Authentecation_System_using_node_mysql
+# Users_Authentecation_System_using_node_mysql_JWT
 
 Node.js + MySQL API for User Management, Authentication and Registration By Rubeel Ahmed
 Setup?
